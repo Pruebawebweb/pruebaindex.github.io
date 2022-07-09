@@ -1,0 +1,110 @@
+
+
+body{background-color:  #C8D8D9}
+
+
+.titulo-pag{position: absolute;
+
+    top: -10%;
+
+    left:28%;
+    
+    
+    font-size: 120px;
+
+font-family:'Pacifico', cursive ;
+
+}
+
+.img-logo{position: absolute;
+    left: 40%;
+    top: 38%;
+
+}
+
+
+
+.barra{font-family: 'PT Serif', serif;
+
+width: 10%;
+height: 50%;
+position: fixed;
+transition: .4s all;
+z-index: 1;
+
+}
+
+
+
+.barra ul{padding: 0px;
+text-align: center;}
+
+
+.barra li{
+    transition: 3s all;}
+
+    .barra a{text-decoration: none;
+    
+    list-style: none;
+    transition: .3s all;
+    font-size: 0px;
+    padding: 0px;
+}
+
+.barra h2{text-align: center;
+          color: black;
+          padding: 5px;
+          padding-bottom: 5px;
+          font-size: 0px;
+          font-family:'Pacifico', cursive; 
+}
+
+.barra img {padding-top: 20px;
+            padding-left: 20px;
+}
+
+
+.barra:hover{
+width: 40%;
+height: 35%;
+background-color:#303030;
+
+}
+
+
+.barra:hover a{font-size: 20px;
+color: gray;
+display: block;
+padding: 20px;
+
+}
+
+
+.barra:hover{height: 0px;
+}
+
+.barra:hover li{
+border-top: 2px solid black;
+width: 100%;
+
+}
+
+.barra:hover ul:last-of-type{border-bottom: 1px solid black;
+
+}
+
+.barra:hover a:hover{
+font-size: 25px;
+padding: 30px 0px;
+background-color: rgba(22,78,112,0.98);
+
+
+}
+
+
+
+
+
+
+
+

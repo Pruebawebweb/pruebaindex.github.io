@@ -1,0 +1,28 @@
+
+.sobre-nosotros{position: absolute;
+    text-decoration: none;
+    font-family:'PT Serif', serif ;
+    color: black;
+    bottom: 10%;
+    left: 33%;
+
+
+}
+.contacto{position: absolute;
+    bottom: 10%;
+    left: 58%;
+    text-decoration: none;
+
+font-family:'PT Serif', serif ;
+color: black;
+
+}
+
+.footer-company-name{position: absolute;
+
+    font-family:'PT Serif', serif ;
+
+    left: 44%;
+    bottom:0%
+
+}
